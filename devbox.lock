@@ -1,0 +1,53 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "typst@0.12.0": {
+      "last_modified": "2024-10-20T12:41:22Z",
+      "resolved": "github:NixOS/nixpkgs/ca30f584e18024baf39c395001262ed936f27ebd#typst",
+      "source": "devbox-search",
+      "version": "0.12.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/pqkdmm4jzp0a9sfhk3mgj6hrvxmi00yh-typst-0.12.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/pqkdmm4jzp0a9sfhk3mgj6hrvxmi00yh-typst-0.12.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/1rddjyz4nvl83kv3gzdykr0ablh63ha9-typst-0.12.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/1rddjyz4nvl83kv3gzdykr0ablh63ha9-typst-0.12.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/n1fa4q0bpjvd3fs1rd650rcz51vw9b96-typst-0.12.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/n1fa4q0bpjvd3fs1rd650rcz51vw9b96-typst-0.12.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/yamha5vannvzxfml7hxdzfi1jph0fbym-typst-0.12.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/yamha5vannvzxfml7hxdzfi1jph0fbym-typst-0.12.0"
+        }
+      }
+    }
+  }
+}
